@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "https://fahd-abdullah.github.io/csb-35nvs0/static/css/main.4115cd7d.chunk.css",
+    "main.js": "https://fahd-abdullah.github.io/csb-35nvs0/static/js/main.53172996.chunk.js",
+    "main.js.map": "https://fahd-abdullah.github.io/csb-35nvs0/static/js/main.53172996.chunk.js.map",
+    "runtime-main.js": "https://fahd-abdullah.github.io/csb-35nvs0/static/js/runtime-main.3214887c.js",
+    "runtime-main.js.map": "https://fahd-abdullah.github.io/csb-35nvs0/static/js/runtime-main.3214887c.js.map",
+    "static/js/2.c64c5099.chunk.js": "https://fahd-abdullah.github.io/csb-35nvs0/static/js/2.c64c5099.chunk.js",
+    "static/js/2.c64c5099.chunk.js.map": "https://fahd-abdullah.github.io/csb-35nvs0/static/js/2.c64c5099.chunk.js.map",
+    "index.html": "https://fahd-abdullah.github.io/csb-35nvs0/index.html",
+    "static/css/main.4115cd7d.chunk.css.map": "https://fahd-abdullah.github.io/csb-35nvs0/static/css/main.4115cd7d.chunk.css.map",
+    "static/js/2.c64c5099.chunk.js.LICENSE.txt": "https://fahd-abdullah.github.io/csb-35nvs0/static/js/2.c64c5099.chunk.js.LICENSE.txt",
+    "static/media/Foggy.72e726fc.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Foggy.72e726fc.png",
+    "static/media/Foggy.f9a34470.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Foggy.f9a34470.png",
+    "static/media/Hail.7907b699.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Hail.7907b699.png",
+    "static/media/Hail.a4ddf09c.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Hail.a4ddf09c.png",
+    "static/media/Lrain.26c86fd5.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Lrain.26c86fd5.png",
+    "static/media/Lrain.dd908d7d.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Lrain.dd908d7d.png",
+    "static/media/Lsnow.bde09963.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Lsnow.bde09963.png",
+    "static/media/Lsnow.cca5eedb.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Lsnow.cca5eedb.png",
+    "static/media/Mcloudy.cc069503.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Mcloudy.cc069503.png",
+    "static/media/Mcloudy.e7344881.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Mcloudy.e7344881.png",
+    "static/media/Moon.8cfafd2c.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Moon.8cfafd2c.png",
+    "static/media/Pcloudy.00f7e484.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Pcloudy.00f7e484.png",
+    "static/media/Pcloudy.5024bafb.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Pcloudy.5024bafb.png",
+    "static/media/Rain.64574890.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Rain.64574890.png",
+    "static/media/Rain.853ad72d.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Rain.853ad72d.png",
+    "static/media/Sleet.23f584f4.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Sleet.23f584f4.png",
+    "static/media/Sleet.f04b405a.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Sleet.f04b405a.png",
+    "static/media/Snow.4a315011.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Snow.4a315011.png",
+    "static/media/Snow.6e66e145.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Snow.6e66e145.png",
+    "static/media/Sunny.25ec0ee7.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Sunny.25ec0ee7.png",
+    "static/media/Tshower.3871bb2a.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Tshower.3871bb2a.png",
+    "static/media/Tshower.e3c53fbf.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Tshower.e3c53fbf.png",
+    "static/media/Tstorm.8cdf378b.png": "https://fahd-abdullah.github.io/csb-35nvs0/static/media/Tstorm.8cdf378b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3214887c.js",
+    "static/js/2.c64c5099.chunk.js",
+    "static/css/main.4115cd7d.chunk.css",
+    "static/js/main.53172996.chunk.js"
+  ]
+}
